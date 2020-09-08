@@ -1,0 +1,2 @@
+rootProject.name='SharedPreferencesNac2s'
+include ':app'
